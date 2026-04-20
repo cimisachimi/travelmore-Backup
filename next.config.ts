@@ -21,6 +21,11 @@ const nextConfig: NextConfig = {
         hostname: "api.travelmore.travel",
         pathname: "/storage/**",
       },
+      {
+        protocol: "https",
+        hostname: "api.imperialvilla.site",
+        pathname: "/storage/**",
+      },
     ],
   },
 };
