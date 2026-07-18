@@ -24,7 +24,7 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "api.imperialvilla.site",
-        pathname: "/**",
+        pathname: "/storage/**",
       },
     ],
   },
